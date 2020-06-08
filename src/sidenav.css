@@ -1,0 +1,28 @@
+/* main {
+    background: #000;
+} */
+
+.divs {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1006;
+    
+    min-width: 60px;
+    background: #c5bcbc;
+    transition: min-width 0.72s;
+}
+.navitems{
+    /* background-image: linear-gradient() */
+    color: black;
+    background: rgb(204, 197, 197);
+    font-weight: 100;
+    text-shadow: rgb(172, 167, 167);
+}
+
+.Navitems:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(202, 32, 146);
+    font-size: medium;
+}

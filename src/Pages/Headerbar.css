@@ -1,0 +1,18 @@
+*{
+    margin : 0%;
+}
+
+.header {
+    margin-left: 49px;
+background: rgb(236, 231, 231);
+height: 60px;
+    width: 96%;
+    /* border-radius: 20px; */
+    /* align-self: center; */
+    margin-top: -50px;
+    border: solid gray 2px;
+/* padding: 10px 5px; */
+    
+    
+    
+}

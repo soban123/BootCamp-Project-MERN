@@ -1,0 +1,9 @@
+.studentTable{
+    border-radius:0px;
+
+}
+.floatingButton{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
